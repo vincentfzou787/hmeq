@@ -1,4 +1,4 @@
 streamlit
 numpy
-sciktit-learn==1.5.2
+scikit-learn==1.6.1
 pandas
